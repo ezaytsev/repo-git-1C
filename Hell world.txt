@@ -1,1 +1,2 @@
 Новый("Excel.Application")
+Новый("Word.Application")
